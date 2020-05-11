@@ -12,6 +12,19 @@
 
 
 
+<!--
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+	
+@enduml
+-->
+
+![](firstDiagram.svg)
+
+
+
 IoTivity is an open source framework that implements the [OCF](https://openconnectivity.org) (Open Connectivity Foundation) protocol for easy, secure device-to-device communication for IoT devices. 
 
 Each day more and more devices are coming online, adding to the ever-growing Internet of Things (IoT). Analysts agree the IoT will grow to many billions of devices over the next decade.
