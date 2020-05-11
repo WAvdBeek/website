@@ -10,18 +10,7 @@
 
 # Introduction
 
-
-
-<!--
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-	
-@enduml
--->
-
-![](firstDiagram.svg)
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://WAvdBeek.github.io/WAvdBeek/website/myfile.puml)
 
 
 

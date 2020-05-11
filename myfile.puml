@@ -1,0 +1,6 @@
+@startuml
+
+car -> app
+app -> client
+client -> tshirt
+@enduml
