@@ -1,7 +1,7 @@
 ![IoTivity logo](/Images/IoTivity-logo.png)
 
 
-{% include navigation.html}
+{% include navigation.html %}
 
 
 [**Introduction**](index.md)   |   [**Getting Started FAQ**](getting-started-faq.md)   |   [**Digging Deeper**](digging-deeper.md)   |   [**GitHub Repository**](https://github.com/iotivity/iotivity-lite)   |   [**IoTivity.org**](https://iotivity.org)
