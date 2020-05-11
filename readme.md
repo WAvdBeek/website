@@ -10,7 +10,7 @@
 
 # Introduction
 
-![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://WAvdBeek.github.io/WAvdBeek/website/myfile.puml)
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://wavdbeek.github.io/website//website/myfile.puml)
 
 
 
